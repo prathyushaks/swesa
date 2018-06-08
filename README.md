@@ -25,3 +25,5 @@ The folder 'data' contains the Yelp, Amazon and IMDB data sets downloaded from
 "Dimitrios Kotzias, Misha Denil, Nando De Freitas, and Padhraic Smyth. 2015. From group to individual labels using deep features. In Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pages 597–606. ACM". However, due to the proprietary nature of the A-CHESS data set it is not made publicly available. Please write to kameswarasar@wisc.edu, if you wish to access this data set.
 
 If using this code, please cite our paper as mentioned above.
+
+If you encounter any errors/difficulty running any of these scripts, please write to kameswarasar@wisc.edu
